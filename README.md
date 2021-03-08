@@ -13,6 +13,11 @@ All of the samples are stored in plates with a unique barcode. We need to build 
 
 This would make the jobs of the reefer teams much easier as well as allowing us to find out where they are. Imagine trying to find a sample amongst thousands of other samples by hand. It would be like trying to find a needle in a haystack!
 
+# Building and running Reefer Raker locally
+
+Building and running Open MCT in your local dev environment is very easy. Be sure you have [Git] (https://git-scm.com/downloads) and [Node.js] (https://nodejs.org/en/), then follow the directions below
+
+
 # Vue 3 + Typescript + Vite
 
 This template should help get you started developing with Vue 3 and Typescript in Vite.
