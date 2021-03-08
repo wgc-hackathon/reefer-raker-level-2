@@ -15,7 +15,7 @@ This would make the jobs of the reefer teams much easier as well as allowing us 
 
 # Building and running Reefer Raker locally
 
-Building and running Open MCT in your local dev environment is very easy. Be sure you have [Git] (https://git-scm.com/downloads) and [Node.js] (https://nodejs.org/en/), then follow the directions below
+Building and running Open MCT in your local dev environment is very easy. Be sure you have [Git](https://git-scm.com/downloads) and [Node.js](https://nodejs.org/en/), then follow the directions below
 
 
 # Vue 3 + Typescript + Vite
