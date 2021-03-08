@@ -23,13 +23,13 @@ git clone https://github.com/wgc-hackathon/reefer-raker-vue.git
 
 Install development dependencies
 
-npm install
+`npm install`
 
 Run a local development server
 
-npm run dev
+`npm run dev`
 
-Open MCT is now running, and can be accessed by pointing a web browser at http://localhost:3000/
+Reefer Raker is now running, and can be accessed by pointing a web browser at http://localhost:3000/
 
 # Vue 3 + Typescript + Vite
 
