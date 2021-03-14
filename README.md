@@ -100,7 +100,13 @@ press `CTRL + C` together
 
 ![Screen Shot 2021-03-14 at 9 53 47 AM](https://user-images.githubusercontent.com/519327/111064321-42355e80-84ab-11eb-8f5b-6b9ceace0afb.png)
 
+5. There is an example test in the `tests\unit\HelloWorld.spec.js` file
 
+6. The testing library used is Jest and you can find out more about it here - [Jest](https://jestjs.io/)
+
+7. You can also find out a bit more about testing with vue.js here [Vue testing](https://v3.vuejs.org/guide/testing.html)
+
+8. Vue also offers an additional library to make testing which you can find out about here [Vue test Utils](https://vue-test-utils.vuejs.org/)
 
 
 
