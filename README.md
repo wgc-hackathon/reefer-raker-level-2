@@ -46,11 +46,17 @@ The api is now running and can be accessed by pointing a web browser at http://l
 2. The following routes are now available
 
 `GET    /reefers`
+
 `GET    /reefers/:id`
+
 `POST   /reefers`
+
 `PUT    /reefers/:id`
+
 `PATCH  /reefers/:id`
+
 `DELETE /reefers/:id`
+
 
 `GET    /boxes`
 `GET    /boxes/:id`
