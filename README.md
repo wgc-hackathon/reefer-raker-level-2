@@ -72,7 +72,7 @@ The api is now running and can be accessed by pointing a web browser at http://l
 `DELETE /boxes/:id`
 
 
-3. Please be cautious when running any of the above commands as they will change the db.json file so it is good practis to take a copy of the original file before playing around with the api
+3. Please be cautious when running any of the above commands as they will change the db.json file so it is good practise to take a copy of the original file before playing around with the api
 
 # Running the Reefer Raker and the mock API together.
 
@@ -87,6 +87,18 @@ The api is now running and can be accessed by pointing a web browser at http://l
 2. to stop reefer raker and the mock API
 
 press `CTRL + C` together
+
+# Testing
+
+1. When you are developing real world applications it is good practise to have tests. In our team it is mandatory to have automated test suites to check that the functionality of what you have built works as it should.
+
+2. Our team would usually code review anything that a software developer has created and part of that will be to ensure that tests exist and that they are accurate. Before making anything available to our customers we would check that the automated test suite passes.
+
+3. Also if you were to commit anything to the main repository we would expect it to have tests.
+
+4. We have created a test suite which can be run using the `npm test` command which should show the output below.
+
+![Screen Shot 2021-03-14 at 9 52 34 AM](https://user-images.githubusercontent.com/519327/111064286-07332b00-84ab-11eb-8e15-dc7e5857f51c.png)
 
 
 
