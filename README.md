@@ -106,7 +106,7 @@ press `CTRL + C` together
 
 7. You can also find out a bit more about testing with vue.js here [Vue testing](https://v3.vuejs.org/guide/testing.html)
 
-8. Vue also offers an additional library to make testing which you can find out about here [Vue test Utils](https://vue-test-utils.vuejs.org/)
+8. Vue also offers an additional library to make testing easier which you can find out about here [Vue test Utils](https://vue-test-utils.vuejs.org/)
 
 
 
