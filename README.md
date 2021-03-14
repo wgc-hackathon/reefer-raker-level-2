@@ -32,3 +32,38 @@ git clone https://github.com/wgc-hackathon/reefer-raker-vue.git
 Reefer Raker is now running, and can be accessed by pointing a web browser at http://localhost:3000/
 
 This application is built using [Vite](https://github.com/vitejs/vite) so you can also start it locally using the `npx vite` command.
+
+# Mock API
+
+For the purposes of testing the application a mock API has been created using the data in the db.json file
+
+1. To start the API
+
+`npm run api`
+
+The api is now running and can be accessed by pointing a web browser at http://localhost:3001/
+
+2. The following routes are now available
+
+`GET    /reefers`
+`GET    /reefers/:id`
+`POST   /reefers`
+`PUT    /reefers/:id`
+`PATCH  /reefers/:id`
+`DELETE /reefers/:id`
+
+`GET    /boxes`
+`GET    /boxes/:id`
+`POST   /boxes`
+`PUT    /boxes/:id`
+`PATCH  /boxes/:id`
+`DELETE /boxes/:id`
+
+3. Please be cautious when running any of the above commands as they will change the db.json file so it is good practis to take a copy of the original file before playing around with the api
+
+
+
+
+
+
+
