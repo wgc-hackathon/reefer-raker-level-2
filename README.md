@@ -98,7 +98,7 @@ press `CTRL + C` together
 
 4. We have created a test suite which can be run using the `npm test` command which should show the output below.
 
-![Screen Shot 2021-03-14 at 9 52 34 AM](https://user-images.githubusercontent.com/519327/111064286-07332b00-84ab-11eb-8e15-dc7e5857f51c.png)
+![Screen Shot 2021-03-14 at 9 53 47 AM](https://user-images.githubusercontent.com/519327/111064321-42355e80-84ab-11eb-8f5b-6b9ceace0afb.png)
 
 
 
