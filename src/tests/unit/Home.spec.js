@@ -1,11 +1,11 @@
 // src/components/HelloWorld.spec.js
 import { mount } from '@vue/test-utils'
-import HelloWorld from '../../../src/components/HelloWorld.vue'
+import Home from '../../components/Home.vue'
 
-describe('HelloWorld', () => {
+describe('Home Page', () => {
   it('should display header text', () => {
     const msg = 'Hello Vue 3'
-    const wrapper = mount(HelloWorld, { props: { msg } })
+    const wrapper = mount(Home, { props: { msg } })
 
     expect(wrapper.find('h1').text()).toEqual(msg)
   })
