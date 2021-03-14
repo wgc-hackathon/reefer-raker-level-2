@@ -11,5 +11,5 @@
     "lib": ["esnext", "dom"],
     "types": ["vite/client", "@types/jest"]
   },
-  "include": ["src/**/*.ts", "src/**/*.d.ts", "src/**/*.tsx", "src/**/*.vue", "src/views/Home.vue"]
+  "include": ["src/**/*.ts", "src/**/*.d.ts", "src/**/*.tsx", "src/**/*.vue", "src/views/Home.vue", "src/components/Home.vue"]
 }

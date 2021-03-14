@@ -9,5 +9,8 @@ module.exports = {
     '^.+\\.(js|jsx)$': ['babel-jest', { rootMode: 'upward' }],
     '^.+\\.vue$': 'vue-jest',
     '^.+\\.ts$': 'ts-jest'
-  }
+  },
+  moduleNameMapper: {
+    '@/(.*)$': '<rootDir>/src/$1'
+    },
 }

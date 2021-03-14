@@ -1,6 +1,6 @@
 // src/components/HelloWorld.spec.js
 import { mount } from '@vue/test-utils'
-import Home from '../../components/Home.vue'
+import Home from '@/components/Home.vue'
 
 describe('Home Page', () => {
   it('should display header text', () => {
