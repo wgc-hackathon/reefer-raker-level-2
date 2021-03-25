@@ -100,7 +100,7 @@ press `CTRL + C` together
 
 ![Screen Shot 2021-03-14 at 9 53 47 AM](https://user-images.githubusercontent.com/519327/111064321-42355e80-84ab-11eb-8f5b-6b9ceace0afb.png)
 
-5. There is an example test in the `tests\unit\HelloWorld.spec.js` file
+5. There is an example test in the `tests\unit\Home.spec.js` file
 
 6. The testing library used is Jest and you can find out more about it here - [Jest](https://jestjs.io/)
 
