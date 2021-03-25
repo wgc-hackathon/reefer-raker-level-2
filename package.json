@@ -1,5 +1,5 @@
 {
-  "name": "reefer-raker-vue",
+  "name": "reefer-raker",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
