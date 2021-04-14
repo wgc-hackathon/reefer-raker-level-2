@@ -2,12 +2,14 @@
   <Home msg="Reefer Raker" />
 </template>
 
-<script>
+<script lang="ts">
+import { defineComponent } from 'vue'
 import Home from '@/components/Home.vue'
-export default {
+
+export default defineComponent({
   name: 'HomePage',
   components: {
     Home
   }
-}
+})
 </script>
